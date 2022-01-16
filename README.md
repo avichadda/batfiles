@@ -12,7 +12,7 @@ I have learnt:
 * Check if file exists: 
 * Clear screen: `cls`
 * View environment variables:
-* View the folder directory structure:
+* View the folder directory structure: `dir`
 * Check the current date:
 * Check the current time:
 * Batch scripting:
