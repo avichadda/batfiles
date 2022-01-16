@@ -21,6 +21,6 @@ I have learnt:
 * Copy files from one folder to another: `xcopy`
 * Find text inside a command: `find`
 * Connecting output of two commands:
-* 
+* Renaming a file: `ren path newfilename`
 
 
