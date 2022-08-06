@@ -9,7 +9,7 @@ I have learnt:
 * Ping: `ping www.github.com`
 * Ipconfig: `ipconfig /all`
 * Delete files: `del`
-* Check if file exists: 'find "____" | dir'
+* Check if file exists: `find "____" | dir`
 * Clear screen: `cls`
 * View environment variables:
 * View the folder directory structure: `dir`
