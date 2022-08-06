@@ -1,5 +1,5 @@
 ### Learning bat commands
-Learning some bat coding on Command Prompt
+Learning some bat coding on Command Prompt with my father
 I have learnt:
 
 * Change directory to root: `cd/`
